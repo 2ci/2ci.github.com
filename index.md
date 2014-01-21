@@ -10,7 +10,7 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 
-_new updates__	
+__new updates__
 
 <ul class="posts">
   {% for post in site.posts %}
